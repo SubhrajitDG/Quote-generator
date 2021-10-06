@@ -26,7 +26,7 @@ height: 100vh;
     box-shadow: 0 2px 8px rgba(0,0,0,0.6);
     border-radius: 10px;
     width: 600px;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.808);
     margin: 10px;
 }
 
@@ -63,13 +63,13 @@ hr{
 .buttons button{
     cursor: pointer;
     border: none;
-    color: #080808;
+    color: #ffffff;
     font-style: normal;
     font-size: 30px;
     font-weight: 700;
-    background-color: #4305d4;
-    /*padding: 10px;*/
-    border-radius: 4px;
+    background-color: #3000a1;
+    padding: 10px;
+    border-radius: 7px;
 }
  .buttons:focus{
      outline: none;
